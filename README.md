@@ -124,4 +124,7 @@ npm start
 * [`MythiaOfc`](https://github.com/MythiaOfc) 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/MythiaOfc.png?size=70)](https://github.com/MythiaOfc)
+[![Hanaa](https://github.com/HanaaCanss.png?size=200)](https://github.com/HanaaCanss) | [![Mythia](https://github.com/MythiaOfc.png?size=200)](https://github.com/MythiaOfc)
+----|----
+[Hanaa](https://github.com/HanaaCanss) | [Mythia](https://github.com/MythiaOfc)
+ Recoders | Recoders
