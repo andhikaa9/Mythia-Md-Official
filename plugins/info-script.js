@@ -8,7 +8,7 @@ Nih Kakk :
 https://github.com/MythiaOfc/Mythia-Md-Official
 
 My Rest Api :
-https://api-mythiamd.herokuapp.com
+https://api-mythiaofc.herokuapp.com
 
 Sc Hanaa Full Enc Mau No Enc Recode Sendiri`
 let wibu = `https://telegra.ph/file/3238445b0b83558653806.jpg` 
