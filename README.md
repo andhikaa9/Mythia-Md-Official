@@ -19,7 +19,7 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> Dan Subscribe [ Here ](https://www.youtube.com/channel/Miti) 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
