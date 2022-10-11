@@ -1,4 +1,3 @@
-
 ## PERHATIAN!!
 Script ini untuk di publish untuk semua orang, bukan untuk di perjual belikan. Jika dijual neraka menunggumu kakak !
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -6,13 +5,8 @@ Script ini untuk di publish untuk semua orang, bukan untuk di perjual belikan. J
     <img src="https://telegra.ph/file/8e6ba7c27828b5af4c08b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Mythia-Md</h1>
-<p align="center">
-  <a href="https://github.com/MythiaOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Mythia+Md+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+Mythia+Ofc;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
-</p>
-
-<p align="center">
+  <p align="center">
  <a href="#"><img title="Mythia-Md" src="https://img.shields.io/badge/-Mythia--V1--Md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
 <p align="center">
 <a href="https://github.com/MythiaOfc"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Mythia--Ofc-green?style=for-the-badge&logo=github"></a>
     
