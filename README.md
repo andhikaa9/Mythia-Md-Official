@@ -125,9 +125,9 @@ npm start
 * [`HanaaCanss`](https://github.com/HanaaCanss)
 
 ## ```Suhu 👑```
-[![ImXianLiao](https://github.com/HanaaCanss.png?size=200)](https://github.com/HanaaCanss) | [![Justyn](https://github.com/ItzMeJustyn.png?size=200)](https://github.com/ItzMeJustyn)
+[![ImYanXiao](https://github.com/ImYanXiao.png?size=200)](https://github.com/ImYanXiao) | [![Papah Chan](https://github.com/FahriAdison.png?size=200)](https://github.com/FahriAdison)
 ----|----
-[Hanaa](https://github.com/HanaaCanss) | [Justyn](https://github.com/ItzMeJustyn)
+[ImYanXiao](https://github.com/ImYanXiao) | [Papah Chan](https://github.com/FahriAdison)
  Suhu | Suhu
 
 ## ```Recode By ✏️```
