@@ -109,11 +109,11 @@ npm start
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`]
-* [`My parents`]
-* [`All Friends`]
-* [`All Contributor`]
-* [`All Creator Bot`]
+* `Allah SWT`
+* `My parents`
+* `All Friends`
+* `All Contributor`
+* `All Creator Bot`
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -122,6 +122,7 @@ npm start
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison)
 * [`MythiaOfc`](https://github.com/MythiaOfc) 
+* [`HanaaCanss`](https://github.com/HanaaCanss)
 
 ## ```Recode By ✏️```
 [![HanaaCanss](https://github.com/HanaaCanss.png?size=200)](https://github.com/HanaaCanss) | [![MythiaOfc](https://github.com/MythiaOfc.png?size=200)](https://github.com/MythiaOfc)
