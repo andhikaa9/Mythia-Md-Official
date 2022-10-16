@@ -34,27 +34,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/hana' //instagram
-global.sgh = 'https://github.com/HanaaCanss' //github
-global.sgc = 'https://chat.whatsapp.com/EglBVdomUpOJ31PNfkhytn' //group whatsapp
-global.sdc = 'https://discord.gg/hana' //discord
-global.snh = 'https://youtube.com/c/-' // isi yutup kalian
+global.sig = 'https://instagram.com/ryuzeenx' //instagram
+global.sgh = 'https://github.com' //github
+global.sgc = '-' //group whatsapp
+global.sdc = '_'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083187631714' //dana
-global.pgopay = '083187631714' //gopay
-global.ppulsa = '083187631714' //axis
+global.pdana = '089512069904' //dana
+global.pgopay = '089512069904' //gopay
+global.ppulsa = '089512069904' //axis
 global.psaweria = 'notfound' //saweria
 
 /*============== BIODATA ==============*/
-global.nomorbot = '6281267751714'
-global.nomorown = '6281267751714'
-global.namebot = 'HanaaBotzz'
-global.nameown = 'HanaaCanss'
-global.gender = "Cewe"
-global.tanggallahir = "05-10-2007"
-global.umur = "16"
-global.hobby = "Coding"
+global.nomorbot = '62895412490002'
+global.nomorown = '6289512069904'
+global.namebot = 'Dhika Bot'
+global.nameown = 'Andhika'
+global.gender = "Lakik"
+global.tanggallahir = "-"
+global.umur = "-"
+global.hobby = "-"
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -63,8 +63,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281267758318', 'HanaaCanss', true],
-  ['6283898351836', 'OmHiro', true],
+  ['6289512069904', 'Dhika', true],
+  ['089512069904', '-', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '⫹⫺HanaaCanss Multi Device' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HANAA-BOTZ-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ HANAA-BOTZ-V3 '
+global.wm = '⫹⫺Dhikaa Multi Device' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dhikaa-BOTZ-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Dhika-BOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ HanaaCanss MultiDevice Bot`
-global.author = '                「 HANAACANSS  あ」'
+global.titlebot = `⫹⫺ Dhika-Botz MultiDevice Bot`
+global.author = '                「 Andhika  あ」'
 
 
 /*============== LOGO ==============*/
